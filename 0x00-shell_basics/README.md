@@ -1,1 +1,1 @@
-Betty_in_my_first_directory
+bye_bye_betty
