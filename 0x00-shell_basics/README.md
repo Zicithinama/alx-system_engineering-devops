@@ -1,1 +1,1 @@
-bye_bye_betty
+bye_first_directory
