@@ -1,1 +1,1 @@
-Duplicate last file
+No more javascript
