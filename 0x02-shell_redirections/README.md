@@ -1,1 +1,1 @@
-Current state of directory
+Duplicate last file
