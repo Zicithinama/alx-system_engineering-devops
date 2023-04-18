@@ -1,1 +1,1 @@
-Local_variables
+Global_Variables
